@@ -32,7 +32,7 @@ Mahasiswa Informatika di **UIN Sunan Kalijaga Yogyakarta** dengan minat besar pa
 
 ### Contact
 <p align="left">
-  <a href="mailto:husnullkhatimhaah@gmail.com">
+  <a href="mailto:husnullkhatimaah@gmail.com">
     <img src="https://img.shields.io/badge/Email-HUSNULLKHATIMHAAH%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <br>
