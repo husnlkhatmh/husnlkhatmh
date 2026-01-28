@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+I'm+Husnul+Khatimah;" />
 </p>
 
-Mahasiswa Informatika di **UIN Sunan Kalijaga Yogyakarta** dengan minat besar pada pengolahan data, *machine learning*, dan pengembangan sistem berbasis data. Saya tertarik pada bidang **Data Analysis, Machine Learning, dan Artificial Intelligence**, serta terus mengembangkan kemampuan analitis dan teknis untuk mengolah data. Melalui pembelajaran akademik dan berbagai proyek, saya berfokus membangun solusi berbasis data yang inovatif dan berdampak nyata 📊🤖.
+Mahasiswa Informatika di **UIN Sunan Kalijaga Yogyakarta** dengan minat besar pada pengolahan data dan *machine learning*. Saya tertarik pada bidang **Data Analysis, Machine Learning, dan Artificial Intelligence**, serta terus mengembangkan kemampuan analitis dan teknis untuk mengolah data. Melalui pembelajaran akademik dan berbagai proyek, saya berfokus membangun solusi berbasis data yang inovatif dan berdampak nyata 📊🤖.
 
 
 ### Skills & Technologies
