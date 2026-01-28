@@ -30,8 +30,6 @@ Mahasiswa Informatika di **UIN Sunan Kalijaga Yogyakarta** dengan minat besar pa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husnlkhatmh&layout=compact&theme=rose_pine)
-
 ### Contact
 <p align="left">
   <a href="mailto:husnullkhatimhaah@gmail.com">
